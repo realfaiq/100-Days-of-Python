@@ -5,3 +5,4 @@ Day-2: Operator, Operands Expressions and Input in Python. <br />
 Day-3: Control Flow, Lists and Sets. <br />
 Day-4: Strings and Common Data  Structures in Python. <br />
 Day-5: Looping in Python. For and While Loop. <br />
+Day-6: Functions in Python. User Defined and Built-in. <br />
