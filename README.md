@@ -6,4 +6,5 @@ Day-3: Control Flow, Lists and Sets. <br />
 Day-4: Strings and Common Data  Structures in Python. <br />
 Day-5: Looping in Python. For and While Loop. <br />
 Day-6: Functions in Python. User Defined and Built-in. <br />
-Day-7: Revised the Concepts done by solving codewars exercises.
+Day-7: Revised the Concepts done by solving codewars exercises. <br />
+Day-8: Object Oriented Programming. Classes, Instances, Decorators, Magic Methods, Inheritance.
