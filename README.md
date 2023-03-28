@@ -8,3 +8,4 @@ Day-5: Looping in Python. For and While Loop. <br />
 Day-6: Functions in Python. User Defined and Built-in. <br />
 Day-7: Revised the Concepts done by solving codewars exercises. <br />
 Day-8: Object Oriented Programming. Classes, Instances, Decorators, Magic Methods, Inheritance.
+Day-9: Dived Deeper into the concepts of OOP. Covered the four basic pillars i.e. Abstraction, Encapsulation, Inheritance, Polymorphism
