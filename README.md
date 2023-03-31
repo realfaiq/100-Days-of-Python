@@ -11,4 +11,4 @@ Day-8: Object Oriented Programming. Classes, Instances, Decorators, Magic Method
 Day-9: Dived Deeper into the concepts of OOP. Covered the four basic pillars i.e. Abstraction, Encapsulation, Inheritance, Polymorphism. <br />
 Day-10: Revised the concepts of OOP in particular class, variables, methods, inheritance. <br />
 Day-11: Revised the concepts of Inheritance and went deep into the concepts like inhertiance, multiple inheritance, class explosions, duck typing, composition, mixins, inheritance vs compostion. <br />
-
+Day-12: Revised all the concepts of OOP studied this week.
