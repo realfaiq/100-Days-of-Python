@@ -15,3 +15,4 @@ Day-12: Revised all the concepts of OOP studied this week. <br />
 Day-13: Solved Codewar Exercise to further strengthesize my knowledge and logic building. <br />
 Day 14: Solved more codewar exercises and revised the OOP Concepts. <br />
 Day-15: Started working on the Data-Science Library Project. <br />
+Day-16: Learned and Practiced NumPy Library. <br />
