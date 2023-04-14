@@ -19,4 +19,5 @@ Day-16: Learned and Practiced NumPy Library. <br />
 Day-17: Started Learning Pandas Library. <br />
 Day-18: Moved on with learning Pandas. Learned about Filtering and updating rows and columns. <br />
 Day-19: Learned how to play with rows and columns in Pandas. <br />
+Day-20: Learned and Practiced about Aggregation and Grouping of Data with Data Cleaning. <br />
 
