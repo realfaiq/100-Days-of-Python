@@ -20,4 +20,5 @@ Day-17: Started Learning Pandas Library. <br />
 Day-18: Moved on with learning Pandas. Learned about Filtering and updating rows and columns. <br />
 Day-19: Learned how to play with rows and columns in Pandas. <br />
 Day-20: Learned and Practiced about Aggregation and Grouping of Data with Data Cleaning. <br />
+Day-21: Worked with Time Series Data using Pandas. Also Learned how to read and write to different types of file formats with pandas and getting started with data visualization using matplotlib. <br />
 
