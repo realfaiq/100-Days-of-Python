@@ -25,4 +25,5 @@ Day-22: Moved more into Data Visualization. Learned MatplotLib and Seaborn Libra
 Day-23: Covered Advanced Topics of numPy such as how do the behind the scenes memory works with lists and numPy array. Used real-world gene data. Solved some Exerices using advanced methods. <br />
 Day-24: Further deep dive into the advanced concepts of Numeric Python. <br />
 Day-25: Started to Learn and Practice the best pratices while using pandas. <br />
-Day-26: Learned and practiced more best practices concepts while using pandas and also got started with logistic regression. <br />
+Day-26: Learned and practiced more best practices concepts while using pandas and also got started with linear regression. <br />
+Day-27: Revised and Practiced the concepts of Pandas learned over the week. <br />
