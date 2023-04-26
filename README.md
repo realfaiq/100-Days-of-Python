@@ -27,3 +27,4 @@ Day-24: Further deep dive into the advanced concepts of Numeric Python. <br />
 Day-25: Started to Learn and Practice the best pratices while using pandas. <br />
 Day-26: Learned and practiced more best practices concepts while using pandas and also got started with linear regression. <br />
 Day-27: Revised and Practiced the concepts of Pandas learned over the week. <br />
+Day-28: Revised and Practiced the concepts of data visualization using matplotlib and also learned multiple linear regression.<br />
