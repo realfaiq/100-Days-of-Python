@@ -30,3 +30,4 @@ Day-27: Revised and Practiced the concepts of Pandas learned over the week. <br 
 Day-28: Revised and Practiced the concepts of data visualization using matplotlib and also learned multiple linear regression.<br />
 Day-29: Revised and Practiced the concepts of data visualization using seaborn and also learned logistic regression for classification. <br />
 Day-30: Learned KNN Algorithm and Practiced and on iris dataset. <br />
+Day-31: Learned and Practiced the algorithm K-Means of clustering. <br />
