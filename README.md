@@ -31,3 +31,4 @@ Day-28: Revised and Practiced the concepts of data visualization using matplotli
 Day-29: Revised and Practiced the concepts of data visualization using seaborn and also learned logistic regression for classification. <br />
 Day-30: Learned KNN Algorithm and Practiced and on iris dataset. <br />
 Day-31: Learned and Practiced the algorithm K-Means of clustering. <br />
+Day-32: Revised and Practiced the concept of KNN. <br />
