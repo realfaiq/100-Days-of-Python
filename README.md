@@ -38,3 +38,4 @@ Day-35: Learned and practiced SVM both hard and soft with kernel trick. <br />
 Day-36: Started to implement ML Algorithms on datasets. Applied KNN on car evaluation dataset from kaggle. <br />
 Day-37: Implemented KMeans, Linear Regression and SVM on breast cancer, housing price and iris data sets respectively. Also started learning about Neural networks. <br />
 Day-38: Implemented Hand Written Digit Recognizer and trained the model on mnist data set using MLPClassifier. <br /> 
+Day-39: Took Animal Bite Dataset from Kaggle. Performed data cleansing and applied ML Models on it. <br />
