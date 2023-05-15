@@ -46,3 +46,4 @@ Day-43: Learned the backend calculus of Neural Networks. Also, practiced and rev
 Day-44: Revised backpropogation algorithm and it's backend working. Revised and practiced K-Means model. <br />
 Day-45: Completed learning backpropagation. Revised and practiced Logistic Regression. <br />
 Day-46: Revised the concepts of pandas and seaborn in python by analyzing customers data-set. <br />
+Day-47: Staretd learning CNN and how they work. Also, applied Mulitple Linear Regression on Student performance dataset. <br />
