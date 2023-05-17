@@ -48,3 +48,4 @@ Day-45: Completed learning backpropagation. Revised and practiced Logistic Regre
 Day-46: Revised the concepts of pandas and seaborn in python by analyzing customers data-set. <br />
 Day-47: Staretd learning CNN and how they work. Also, applied Mulitple Linear Regression on Student performance dataset. <br />
 Day-48: Revised the concepts of Numpy in python. Also, had a deeper dive into convolutional neural networks. <br />
+Day-49: Had a more deeper dive in CNN with loss functions and gradient Descent. Revised KNN on Loan Dataset. <br />
