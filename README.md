@@ -49,3 +49,4 @@ Day-46: Revised the concepts of pandas and seaborn in python by analyzing custom
 Day-47: Staretd learning CNN and how they work. Also, applied Mulitple Linear Regression on Student performance dataset. <br />
 Day-48: Revised the concepts of Numpy in python. Also, had a deeper dive into convolutional neural networks. <br />
 Day-49: Had a more deeper dive in CNN with loss functions and gradient Descent. Revised KNN on Loan Dataset. <br />
+Day-50: Started learning Recurrent Neural Networks. Also, practiced and revised the concepts of KMeans clustering on weekly sales dataset from kaggle. <br />
