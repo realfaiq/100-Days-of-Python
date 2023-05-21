@@ -52,3 +52,4 @@ Day-49: Had a more deeper dive in CNN with loss functions and gradient Descent. 
 Day-50: Started learning Recurrent Neural Networks. Also, practiced and revised the concepts of KMeans clustering on weekly sales dataset from kaggle. <br />
 Day-51: Get into the depth of recurrent neural networks. Also, implemented regression on cereals dataset from kaggle. <br />
 Day-52: Performed data visualization on Parks in newyork city data-set from kaggle and tried to extract maximum features. <br />
+Day-53: Developed a content based recommender system using TMDB movies data-set from kaggle. <br />
