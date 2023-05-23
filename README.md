@@ -54,3 +54,4 @@ Day-51: Get into the depth of recurrent neural networks. Also, implemented regre
 Day-52: Performed data visualization on Parks in newyork city data-set from kaggle and tried to extract maximum features. <br />
 Day-53: Developed a content based recommender system using TMDB movies data-set from kaggle. <br />
 Day-54: Implemented Logistic Regression on gender classification dataset from kaggle. <br />
+Day-55: Started Learning localization and detection. Practiced and Implemented SVM in python. <br />
