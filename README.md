@@ -56,3 +56,4 @@ Day-53: Developed a content based recommender system using TMDB movies data-set 
 Day-54: Implemented Logistic Regression on gender classification dataset from kaggle. <br />
 Day-55: Started Learning localization and detection. Practiced and Implemented SVM in python. <br />
 Day-56: Had a deeper dive into localization and detection. Practiced and Implemented KNN in python. <br />
+Day-57: Done with learning localization and Detection. Practiced and Implemented Logistic Regression in python. <br />
