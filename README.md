@@ -57,3 +57,4 @@ Day-54: Implemented Logistic Regression on gender classification dataset from ka
 Day-55: Started Learning localization and detection. Practiced and Implemented SVM in python. <br />
 Day-56: Had a deeper dive into localization and detection. Practiced and Implemented KNN in python. <br />
 Day-57: Done with learning localization and Detection. Practiced and Implemented Logistic Regression in python. <br />
+Day-58: Learned about GPT. How it was trained and all that. Also, practiced and implemented KNN in python. <br />
