@@ -59,3 +59,4 @@ Day-56: Had a deeper dive into localization and detection. Practiced and Impleme
 Day-57: Done with learning localization and Detection. Practiced and Implemented Logistic Regression in python. <br />
 Day-58: Learned about GPT. How it was trained and all that. Also, practiced and implemented KNN in python. <br />
 Day-59: Learned more about GPT. Also, practiced and implemented SVM in python. <br />
+Day-60: Revised and practiced the concept of clustering with kmeans in python. <br />
