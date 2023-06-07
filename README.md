@@ -62,3 +62,4 @@ Day-59: Learned more about GPT. Also, practiced and implemented SVM in python. <
 Day-60: Revised and practiced the concept of clustering with kmeans in python. <br />
 Day-61: Started learning Keras. Also, revised and practiced KNN model in python. <br />
 Day-62: Trained a model using Keras api of tensorflow with 97% accuracy. <br />
+Day-63: Worked more with Keras and trained and made predictions with the sequential model. <br />
