@@ -64,3 +64,4 @@ Day-61: Started learning Keras. Also, revised and practiced KNN model in python.
 Day-62: Trained a model using Keras api of tensorflow with 97% accuracy. <br />
 Day-63: Worked more with Keras and trained and made predictions with the sequential model. <br />
 Day-64: Learned how to save and load the model using keras and tensorflow. <br />
+Day-65: Made an AI chat bot in python using NLP and Neural Networks. <br />
